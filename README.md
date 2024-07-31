@@ -1,2 +1,2 @@
-# SmileyBoutique.github.io
-SmileyBoutique.github.io
+#Static Smiley Boutique Website
+
